@@ -144,3 +144,11 @@ erDiagram
 <a href="https://github.com/Quant-Trading-finance/Quant-Trading/graphs/contributors">
    <img src="https://contributors-img.web.app/image?repo=Quant-Trading-finance/Quant-Trading" width="800"/>
 </a>
+
+#### AI Agent Marketplace Index And Router | [API Doc](https://www.deepnlp.org/doc/ai_agent_marketplace)
+[![AI Agent Marketplace and Router Badge](https://www.deepnlp.org/api/ai_agent_marketplace/svg?name=Krexind/quant-trading-toolkit&badge_type=review)](https://www.deepnlp.org/store/ai-agent/ai-agent/pub-Krexind/quant-trading-toolkit)
+
+```
+curl 'https://www.deepnlp.org/api/ai_agent_marketplace/v2?id=Krexind/quant-trading-toolkit'
+```
+    
